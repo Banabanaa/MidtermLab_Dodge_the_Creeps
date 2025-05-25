@@ -14,7 +14,7 @@ Language: GDScript
 
 Renderer: Compatibility
 
-## Screenshots
+## Game Preview
 
 ![GIF from the documentation](https://docs.godotengine.org/en/latest/_images/dodge_preview.gif)
 
